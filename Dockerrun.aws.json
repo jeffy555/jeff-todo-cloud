@@ -29,7 +29,7 @@
     },
     {
       "name": "todo-search-ingestion",
-      "image": "gravitonian/todo-search-ingestion:1.0",
+      "image": "j555/todo-search-ingestion:1.0",
       "hostname": "todo-search-ingestion",
       "memory": 128,
       "essential": false,
