@@ -46,8 +46,8 @@ deploy:
  edge: true
  provider: elasticbeanstalk
  region: ap-south-1
- app: Todo-app
- env: TodoApp-env
+ app: Jeff-Todo
+ env: JeffTodo-env
  bucket_name: elasticbeanstalk-ap-south-1-546856048831
  bucket_path: todo-app
  on:
